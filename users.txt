@@ -1,0 +1,1 @@
+[{"password": "GUSdnr5863!", "email": "revolutionist_k@hanmail.net"}, {"password": "GUSdnr5863!", "email": "khw1205@hanmail.net"}, {"password": "GUSdnr5863!", "email": "luiskang@naver.com"}, {"password": "GUSdnr5863!", "email": "luiskang@snu.ac.kr"}, {"password": "GUSdnr5863!", "email": "khw11@hanmail.net"}, {"password": "GUSdnr5863!", "email": "khw12@hanmail.net"}]
